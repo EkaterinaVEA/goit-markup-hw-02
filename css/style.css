@@ -181,6 +181,7 @@ a {
 
 /* ====== PORTFOLIO BUTTONS ======== */
 .filters-button {
+  font-family: var(--primary-font-family);
   background-color: #f5f4fa;
   color: var(--primary-text-color);
   font-size: 16px;
